@@ -15,4 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-You've stumbled on my profile page! ✨ Congratulations ✨
+# You've stumbled on my profile page! ✨ Congratulations ✨
+
+### 🔭 I’m currently working on ...
+1. A web-based application with AI and machine learning components that will assist advocates of fair districting by providing robust data and insight into proposed congressional maps.
+
+### 🌱 I’m currently learning ...
+About Computer Vision systems in a python based environment
+
+### 💬 Ask me about ...
+Computer and personal security or anything InfoSec related!
