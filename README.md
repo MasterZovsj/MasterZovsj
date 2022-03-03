@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # You've stumbled on my profile page! ✨ Congratulations ✨
-https://img.shields.io/website?down_color=pink&down_message=offline&up_color=purple&up_message=online&url=http%3A%2F%2Fmicahfierro.social
+
+![Website](https://img.shields.io/website?down_color=pink&down_message=offline&up_color=purple&up_message=online&url=http%3A%2F%2Fmicahfierro.social)
+
 ### 🔭 I’m currently working on ...
 1. A web-based application with AI and machine learning components that will assist advocates of fair districting by providing robust data and insight into proposed congressional maps.
 
