@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/masterzovsj/masterzovsj) ![Website](https://img.shields.io/website?down_color=pink&down_message=offline&label=micahfierro.social&up_color=purple&up_message=online&url=http%3A%2F%2Fmicahfierro.social)
+![GitHub last commit](https://img.shields.io/github/last-commit/masterzovsj/masterzovsj) ![Website](https://img.shields.io/website?down_color=pink&down_message=offline&label=masterzovsj.github.io&up_color=purple&up_message=online&url=https%3A%2F%2Fmasterzovsj.github.io)
 ### Hi there 👋
 
 <!--
