@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # You've stumbled on my profile page! ✨ Congratulations ✨
 
 ### 🔭 I’m currently working on ...
-1. A web-based application with AI and machine learning components that will assist advocates of fair districting by providing robust data and insight into proposed congressional maps.
+1. Mesh networks using [LoRa](https://en.wikipedia.org/wiki/LoRa)on with a Heltec V3 and [Meshtastic](https://meshtastic.org/)
 
 ### 🌱 I’m currently learning ...
 About Computer Vision systems in a python based environment
