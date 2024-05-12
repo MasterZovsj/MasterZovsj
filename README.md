@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # You've stumbled on my profile page! ✨ Congratulations ✨
 
 ### 🔭 I’m currently working on ...
-1. Mesh networks using [LoRa](https://en.wikipedia.org/wiki/LoRa)on with a Heltec V3 and [Meshtastic](https://meshtastic.org/)
+1. Mesh networks using [LoRa](https://en.wikipedia.org/wiki/LoRa) on with a Heltec V3 and [Meshtastic](https://meshtastic.org/)
 
 ### 🌱 I’m currently learning ...
 About Computer Vision systems in a python based environment
